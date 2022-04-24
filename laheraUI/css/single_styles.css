@@ -385,6 +385,9 @@ section
 	line-height: 50px;
 	font-size: 13px;
 }
+.language > a:hover{
+	color: #000;
+}
 .language > a > i
 {
 	margin-left: 8px;

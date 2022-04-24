@@ -382,6 +382,9 @@ section
 	vertical-align: middle;
 	background: #dda89e;
 }
+.language > a:hover{
+	color: #000;
+}
 .language > a
 {
 	display: block;
@@ -436,6 +439,9 @@ section
 	text-align: center;
 	vertical-align: middle;
 	background:  #dda89e;
+}
+.account > a:hover{
+	color: #000;
 }
 .account > a
 {
